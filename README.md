@@ -5,4 +5,4 @@ Jesus Aponte
 Iván Daniel Gallego Torres
 David Pardines
 Anas Fal
-Aitor Soto
+Aitor Soto Jiménez
